@@ -1,0 +1,36 @@
+#home-page {
+	width: 500px;
+}
+
+heading {
+	font-family: sans-serif;
+	color: #ff00ff;
+	background-color: cyan
+}
+
+div {
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+
+}
+
+li {
+	display: inline;
+}
+
+.firstparagraph {
+	background-color: #f0f0df;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+
